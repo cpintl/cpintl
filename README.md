@@ -12,7 +12,7 @@ I architect **Health Information Systems (HIS)** and **humanitarian supply chain
 
 My work bridges clinical excellence, international health standards (FHIR, HL7, ICD-11), and the harsh realities of crisis-zone operations: no internet, no power, no margin for failure.
 
-**Current Focus:** Building **ZarishLog** (supply chain & inventory management) and **ZarishHIS** (health information system) for offline-first, resource-constrained humanitarian operations.
+**Current Focus:** Building **ZarishLog** (supply chain & inventory management), **ZarishHealth** (health information system) for offline-first, resource-constrained humanitarian operations, **CPMS** (Country Project Management System) as the Mission Control System for Country Management team. 
 
 ---
 
@@ -33,7 +33,7 @@ My work bridges clinical excellence, international health standards (FHIR, HL7, 
 
 ### **Primary Projects**
 
-🩺 **ZarishHIS** — Health Information System for Rohingya Refugee Health Programs
+🩺 **ZarishHealth** — Health Information System for Rohingya Refugee Health Programs
 - **Scope:** Electronic Medical Records (EMR), patient registry (FCN-based), HCV treatment cascade, CVD/NCD management
 - **Architecture:** Offline-first, FHIR R5 compliant, national DHIS2 integration
 - **Users:** Health Post staff, Community Health Workers, Medical Officers
@@ -44,6 +44,14 @@ My work bridges clinical excellence, international health standards (FHIR, HL7, 
 - **Architecture:** Real-time synchronization, barcode/RFID support, cold chain tracking
 - **Users:** Warehouse staff, logistics coordinators, pharmacy managers
 - **Status:** Technical blueprint completed (see attached documentation)
+
+🌐 **Country Project Management System (CPMS)** - Country Project Management System for the Country Management team
+- **Scope:**
+- **Architecture:**
+- **Users:**
+- **Status:**
+- 
+
 
 🤝 **CPI Bangladesh Health Programs**
 - **HCV Program:** WHO 90-90-90 cascade (testing, diagnosis, treatment, cure verification)
@@ -179,7 +187,7 @@ Operating since 2017 across two primary camps (Camp 1W, Camp 4) with:
 
 ### **Repositories**
 - **[ZarishLog](https://github.com/cpintl/zarishlog)** — Supply chain & inventory management system
-- **[ZarishHIS](https://github.com/cpintl/zarishhis)** — Health information system (FHIR-based)
+- **[ZarishHealth](https://github.com/cpintl/zarishhealth)** — Health information system (FHIR-based)
 - **[cpintl-standards](https://github.com/cpintl/cpintl-standards)** — Health standards & interoperability documentation
 - **[cpintl.github.io](https://github.com/cpintl/cpintl)** — This profile & organizational hub
 
@@ -274,4 +282,7 @@ My approach to humanitarian technology:
 *Open-source · Vendor-free · Standards-first · Offline-ready*
 
 **Last Updated:** 2026-07-15  
-**License:** [MIT License](./LICENSE)
+**License:**
+- **OpenSource:** All open-source products incorporate within CPI System will follow and respects individual products source License.
+- **CPI Products:** CPI develop own products will follow CPI's own License policy. For more information,  kindly visits our website at [cpintl.org](https://cpintl.org/)
+  
